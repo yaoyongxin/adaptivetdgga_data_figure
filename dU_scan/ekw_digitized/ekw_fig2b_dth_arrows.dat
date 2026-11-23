@@ -1,0 +1,9 @@
+# Thermal double occupation d_th of DMFT (equilibrium at T_* with E(T_*) = E(t = 0+)), read from the
+# horizontal arrows in Eckstein, Kollar, Werner, PRL 103, 056403 (2009), Fig. 2(b): centroid row of
+# each arrow shaft, same y calibration as ekw_fig2b_d.dat (accuracy ~ +-0.001).
+# U_EKW  U_ours(=U_EKW/2)  d_th
+3.3   1.65   0.0996
+4     2.0    0.1050
+5     2.5    0.1190
+6     3.0    0.1328
+8     4.0    0.1552
